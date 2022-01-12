@@ -1,6 +1,8 @@
 # Sudoku-Solver-and-Generator
 This is a sudoku solver and generator with GUI built using Python
 
+(scroll below for screenshots)
+
 **ALGORITHM:**
 
 The solver uses the Recursive Backtracking Algorithm. Backtracking is a form of search that climbs recursively down a tree made of different choices. Whenever a backtracking algorithm is used, its goal is to reach the very end of its recursion tree where the solutions are, so in order to reach the end it will have to search its way down along a valid path.
@@ -24,6 +26,36 @@ The user may load the saved sudoku at any time.
 Only one sudoku can be saved by a user at any given moment.
 
 Alongside, each user’s points is collected from the ‘points.csv’ file and is sorted to find out the highest scoring players and this information is displayed on the leaderboard.
+
+### Screenshots:
+![alt text](https://github.com/nachiketsrao/Sudoku-Solver-and-Generator/blob/main/readme-images/img1.png)
+
+![alt text](https://github.com/nachiketsrao/Sudoku-Solver-and-Generator/blob/main/readme-images/img2.png)
+
+![alt text](https://github.com/nachiketsrao/Sudoku-Solver-and-Generator/blob/main/readme-images/img3.png)
+
+![alt text](https://github.com/nachiketsrao/Sudoku-Solver-and-Generator/blob/main/readme-images/img4.png)
+
+![alt text](https://github.com/nachiketsrao/Sudoku-Solver-and-Generator/blob/main/readme-images/img5.png)
+
+![alt text](https://github.com/nachiketsrao/Sudoku-Solver-and-Generator/blob/main/readme-images/img6.png)
+
+![alt text](https://github.com/nachiketsrao/Sudoku-Solver-and-Generator/blob/main/readme-images/img7.png)
+
+![alt text](https://github.com/nachiketsrao/Sudoku-Solver-and-Generator/blob/main/readme-images/img8.png)
+
+![alt text](https://github.com/nachiketsrao/Sudoku-Solver-and-Generator/blob/main/readme-images/img9.png)
+
+![alt text](https://github.com/nachiketsrao/Sudoku-Solver-and-Generator/blob/main/readme-images/img10.png)
+
+![alt text](https://github.com/nachiketsrao/Sudoku-Solver-and-Generator/blob/main/readme-images/img11.png)
+
+![alt text](https://github.com/nachiketsrao/Sudoku-Solver-and-Generator/blob/main/readme-images/img12.png)
+
+![alt text](https://github.com/nachiketsrao/Sudoku-Solver-and-Generator/blob/main/readme-images/img13.png)
+
+![alt text](https://github.com/nachiketsrao/Sudoku-Solver-and-Generator/blob/main/readme-images/img14.png)
+
 
 ### MODULES AND FUNCTIONS
 
